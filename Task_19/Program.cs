@@ -24,4 +24,5 @@ string method1 (int number )
 }
 
  method1 ( number) ;
+ 
  Console.WriteLine( method1 ( number));
