@@ -28,4 +28,4 @@ double Method1 (double i1, double j1, double z1,double i2, double j2, double z2)
 
 }
 double s = Method1(i1, j1, z1, i2, j2, z2) ;
-Console.WriteLine("Итого =" + s);
+Console.WriteLine(" Итого =" + s);
