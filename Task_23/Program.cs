@@ -12,7 +12,7 @@ void Method3( int number)
          {
             if (i ==j)
             {
-                Console.WriteLine ($"{i}x{j} ={j*i}");
+                Console.WriteLine ($"{i}x{j} ={j*i*i}");
             }
          }
 
